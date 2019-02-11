@@ -1,5 +1,7 @@
 # Slack Black Theme
 
+This is fork of original: https://github.com/widget-/slack-black-theme
+
 A darker, more contrasty, Slack theme.
 
 # Preview
